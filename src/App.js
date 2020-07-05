@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
         <h1>Say Mashaa' Allah</h1>
         <p><b>Mujhay khud nahin pata ye kaisay bana, lekin aap idher say kuch dekh saktay hain Inshaa' Allah....</b></p>
         <a
-        
+
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
