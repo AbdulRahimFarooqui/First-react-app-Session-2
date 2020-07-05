@@ -31,4 +31,4 @@ jobs:
     - name: Installing Surge
       run: npm install -g surge
     - name: Deploying....
-      run: surge ./build https://practice-session2.surge.sh --token ${{secrets.SURGE_KEY}}
+      run: surge ./public https://practice-of-session2.surge.sh --token ${{secrets.SURGE_KEY}}
