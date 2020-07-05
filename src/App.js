@@ -7,16 +7,19 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Assalaamualaikum, Dear Zone Zone!!! <br/> <code></code>
         </p>
+        <h1>Say Mashaa' Allah</h1>
+        <p><b>Mujhay khud nahin pata, lekin aap idher say kuch dekh saktay hain Inshaa' Allah....</b></p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Lekin click here to know SOMETHING
         </a>
       </header>
     </div>
